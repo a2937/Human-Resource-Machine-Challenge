@@ -1,5 +1,5 @@
 # Human-Resource-Machine-Challenge
-A recreation of the code challenges featured in the hit video game Human Resource Machine.  
+A recreation of the code challenges featured in the hit video game Human Resource Machine by Tomorrow Corporation.  
 
 Every code challenge has a function called `humanResourceMachine` that takes as input
 an array filled with numbers and letters. 
