@@ -7,6 +7,11 @@ For authenticity to the game, the only things inside the function able to be man
 are the inbox and the outbox. The way to solve this problem is to move each item from the 
 `inbox` to the `outbox` array using indexes. 
 
+```js
+let myArray = [];
+myArray[0] = "Ground"; 
+```
+
 Fun Fact: Array indexes are kinda like British building floors where the ground floor is the first
 floor in a building and array indexes start at 0.
 
