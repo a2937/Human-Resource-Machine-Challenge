@@ -1,0 +1,13 @@
+{
+  "name": "year-ten",
+  "version": "1.0.0",
+  "description": "The NodeJS implementation of the year ten problem from Human Resource Machine",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
