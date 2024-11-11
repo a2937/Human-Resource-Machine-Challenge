@@ -1,7 +1,7 @@
 {
-  "name": "year-twelve",
+  "name": "year-fourteen",
   "version": "1.0.0",
-  "description": "The NodeJS implementation of the year twelve problem from Human Resource Machine",
+  "description": "The NodeJS implementation of the year fourteen problem from Human Resource Machine",
   "main": "index.js",
   "type": "module",
   "scripts": {
