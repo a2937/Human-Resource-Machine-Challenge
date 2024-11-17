@@ -18,3 +18,5 @@ comments out multiple lines.
 
 It has been recommended to combine the `map` and `filter` function to transform the value and
 to use the `filter` method to remove any `undefined` elements. 
+
+-  The best way to tell if two items are equal, use the `==` equals operator 
