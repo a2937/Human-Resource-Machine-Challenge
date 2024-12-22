@@ -1,0 +1,13 @@
+{
+  "name": "year-twenty-two",
+  "version": "1.0.0",
+  "description": "The NodeJS implementation of the year twenty-two problem from Human Resource Machine",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
